@@ -1,0 +1,2 @@
+- Program.cs: xunit harness, run 'dotnet test' against the policy under review
+- x402-public-proxy.rules: load into a Suricata sensor; alerts only, no inline blocking assumed
